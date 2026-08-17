@@ -221,11 +221,13 @@ const dataGame = {
     15:{
         nama:"GAME 15",
         saran:[
-`Dicoba bermain di game ini bos, lagi gacor bosku di PG SOFT - Wisdom OF ANTHENA 1000
+`Dicoba bermain di game ini bos, lagi gacor bosku di PRAGMATIC PLAY - Wisdom OF Athena
 
-🔥 30x SPIN MANUAL TURBO OFF
-🔥 15x SPIN OTOMATIS TURBO ON
-🔥 7x SPIN MANUAL TURBO OFF`
+✅❎❎ 16x Manual DC OFF
+❎✅❎ 9x Quick DC ON
+❎✅✅ 15x Manual DC OFF
+✅❎✅ 8x Quick DC ON
+❎✅❎ 30x Quick DC ON`
         ],
         pola:[
             "Pola santai: 10 putaran biasa → istirahat sebentar → lanjut 10 putaran."
@@ -235,13 +237,12 @@ const dataGame = {
     16:{
         nama:"GAME 16",
         saran:[
-`Dicoba bermain di game ini bos, lagi gacor bosku di PRAGMATIC PLAY - Pinata WINS
+`Dicoba bermain di game ini bos, lagi gacor bosku di PG SOFT - Pinata Wins
 
-✅❎❎ 10x Manual DC OFF
-❎✅❎ 9x Quick DC ON
-❎✅✅ 18x Manual DC OFF
-✅❎✅ 15x Quick DC ON
-❎✅❎ 20x Quick DC ON`
+🔥 10x SPIN OTOMATIS TURBO ON
+🔥 5x SPIN MANUAL TURBO OFF
+🔥 20x SPIN OTOMATIS TURBO ON
+🔥 7x SPIN MANUAL TURBO OFF`
         ],
         pola:[
             "Pola ringan: 5 putaran → 5 putaran → jeda singkat."
